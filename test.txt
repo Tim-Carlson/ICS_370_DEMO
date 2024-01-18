@@ -2,6 +2,6 @@ Test data
 
 
 i=8
-i = 10
+i = 30
 
 g = 20
