@@ -1,1 +1,3 @@
 My new java file.
+
+Some new data just arrived.
