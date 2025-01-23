@@ -1,0 +1,2 @@
+This is how my feature should work. 
+Oh and something else.
