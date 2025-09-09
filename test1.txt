@@ -5,5 +5,4 @@ Add some more data
 
 Added my new feature.
 
-
-More features.
+Added another feature.
