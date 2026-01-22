@@ -2,4 +2,4 @@ This is how my feature should work.
 Oh and something else.
 
 
-This is some different content.
+This is some original content.
